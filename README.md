@@ -32,14 +32,14 @@ Data Sources → Log Collector → Processing Pipeline → ML Engine → Alert S
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clonehttps://github.com/stringuers/SOC.git
    cd SOC
    ```
 
 2. **Set up environment variables**
    ```bash
    cp .env.example .env
-   # Edit .env with your configuration
+  
    ```
 
 3. **Train the ML model** (optional, but recommended)
